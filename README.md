@@ -1,2 +1,2 @@
 # hello-world
-My first github practice repository
+My first branch and commit for practice
